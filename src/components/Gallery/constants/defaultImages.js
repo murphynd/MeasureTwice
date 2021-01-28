@@ -32,13 +32,13 @@ export const DEFAULT_IMAGES = [
     caption: 'LeanTo Structure',
     description: 'Custom free-standing leanto structure.',
   },
-  {
-    id: '4',
-    source: sideTable,
-    thumbnail: sideTable,
-    caption: 'Side Table ',
-    description: 'Custom side table for a walkway.',
-  },
+  // {
+  //   id: '4',
+  //   source: sideTable,
+  //   thumbnail: sideTable,
+  //   caption: 'Side Table ',
+  //   description: 'Custom side table for a walkway.',
+  // },
   // {
   //   id: '5',
   //   source: full05,
