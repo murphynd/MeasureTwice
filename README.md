@@ -42,7 +42,7 @@ initalized Jan 28th 2021
 
   - Cash, Check, Credit card, Paypal, Venmo
 
-- Chad@measuretwice.com
+- Chad@measuretwicepdx.com
 
 - namecheap
 
