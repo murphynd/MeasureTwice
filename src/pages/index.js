@@ -22,12 +22,10 @@ const HomeIndex = () => {
             <h3>Handyman Services by Chad Stephens</h3>
           </header>
           <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
+            I am Chad, I live in Northeast Portland and I want to help you
+            complete projects around your house or business. If you know what
+            you need help with please fill out the form below and we can talk
+            about pricing.
           </p>
           <h3>Services:</h3>
           <ul>
@@ -127,7 +125,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">Chad@MeasureTwice.com</a>
+                  <a href="#">Chad@MeasureTwicePDX.com</a>
                 </li>
               </ul>
             </div>
