@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "measure-twice-pdx",
+  "description": "Measure Twice PDX Chad Stephens",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Natalie Murphy",
   "dependencies": {
     "gatsby": "^2.20.12",
     "gatsby-plugin-manifest": "^2.3.3",
@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/murphynd"
   }
 }
