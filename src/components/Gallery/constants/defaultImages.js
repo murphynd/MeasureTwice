@@ -2,7 +2,7 @@ import Cubby from '../../../assets/images/fulls/Cubby.jpeg'
 import Garden1 from '../../../assets/images/fulls/Garden1.jpeg'
 import Garden2 from '../../../assets/images/fulls/Garden2.jpeg'
 import leanTo from '../../../assets/images/fulls/leanTo.jpeg'
-import slabTable from '../../../assets/images/fulls/slabTable.jpg'
+import sideTable from '../../../assets/images/fulls/sideTable.jpg'
 // import thumb01 from '../../../assets/images/thumbs/01.jpg'
 // import thumb03 from '../../../assets/images/thumbs/03.jpg'
 // import thumb04 from '../../../assets/images/thumbs/04.jpg'
@@ -34,10 +34,10 @@ export const DEFAULT_IMAGES = [
   },
   {
     id: '4',
-    source: slabTable,
-    thumbnail: slabTable,
-    caption: 'Slab Table for potters',
-    description: 'Custom Slap table for a fellow potter.',
+    source: sideTable,
+    thumbnail: sideTable,
+    caption: 'Side Table ',
+    description: 'Custom side table for a walkway.',
   },
   // {
   //   id: '5',
