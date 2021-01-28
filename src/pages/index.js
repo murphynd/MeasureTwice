@@ -5,8 +5,8 @@ import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
 const HomeIndex = () => {
-  const siteTitle = 'Gatsby Starter - Strata'
-  const siteDescription = 'Site description'
+  const siteTitle = 'Measure Twice'
+  const siteDescription = 'Chad Stephans - HandyMan'
 
   return (
     <Layout>
@@ -18,11 +18,8 @@ const HomeIndex = () => {
       <div id="main">
         <section id="one">
           <header className="major">
-            <h2>
-              Ipsum lorem dolor aliquam ante commodo
-              <br />
-              magna sed accumsan arcu neque.
-            </h2>
+            <h2>Measure Twice</h2>
+            <h3>Handyman Services by Chad Stephens</h3>
           </header>
           <p>
             Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
@@ -32,6 +29,18 @@ const HomeIndex = () => {
             Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
             lorem neque cubilia.
           </p>
+          <h3>Services:</h3>
+          <ul>
+            <li>Hangning Sheleves or Pictures</li>
+            <li>Furnature Assembly</li>
+            <li>TV mounting</li>
+            <li>Garden Build outs</li>
+            <li>Woodworking</li>
+            <li>Odd Jobs</li>
+            <li>Yard maitanence/clean up</li>
+            <li>Gutter Cleaning</li>
+            <li>paint touchup</li>
+          </ul>
           <ul className="actions">
             <li>
               <a href="#" className="button">
@@ -58,9 +67,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
-            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
-            vulputate lorem neque lorem ipsum dolor.
+            Tell me about your project and your budget and let's make a plan.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -104,9 +111,9 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  1234 Somewhere Rd.
+                  North East
                   <br />
-                  Nashville, TN 00000
+                  Portland, OR 97211
                   <br />
                   United States
                 </li>
@@ -114,13 +121,13 @@ const HomeIndex = () => {
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  000-000-0000
+                  (816)-589-1800
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">hello@untitled.tld</a>
+                  <a href="#">Chad@MeasureTwice.com</a>
                 </li>
               </ul>
             </div>
