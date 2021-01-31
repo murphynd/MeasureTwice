@@ -41,8 +41,8 @@ const HomeIndex = () => {
           </ul>
           <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Learn More
+              <a href="tel:816-589-1800" className="button">
+                Have somethine else in mind? Give me a call
               </a>
             </li>
           </ul>
@@ -87,13 +87,15 @@ const HomeIndex = () => {
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  (816)-589-1800
+                  <a href="tel:816-589-1800">(816)-589-1800</a>
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">Chad@MeasureTwicePDX.com</a>
+                  <a href="mailto:Chad@MeasureTwicePDX.com">
+                    Chad@MeasureTwicePDX.com
+                  </a>
                 </li>
               </ul>
             </div>

@@ -55,14 +55,3 @@ export default function ContactUs() {
     </form>
   )
 }
-
-// <form className="contact-form" onSubmit={sendEmail}>
-//       <input type="hidden" name="contact_number" />
-//       <label>Name</label>
-//       <input type="text" name="from_name" />
-//       <label>Email</label>
-//       <input type="email" name="from_email" />
-//       <label>Message</label>
-//       <textarea name="message" />
-//       <input type="submit" value="Send" />
-//     </form>

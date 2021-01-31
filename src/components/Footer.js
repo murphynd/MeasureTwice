@@ -5,7 +5,10 @@ const Footer = () => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="#" className="icon fa-instagram">
+          <a
+            href="https://www.instagram.com/measuretwicepdx/"
+            className="icon fa-instagram"
+          >
             <span className="label">instagram</span>
           </a>
         </li>
@@ -19,7 +22,8 @@ const Footer = () => (
         </li>
       </ul>
       <ul className="copyright">
-        © {new Date().getFullYear()} - Measure Twice PDX
+        © {new Date().getFullYear()} - Measure Twice PDX // Made by -
+        <a href="https://natpdx.com/"> NatPDX</a>
       </ul>
     </div>
   </div>
