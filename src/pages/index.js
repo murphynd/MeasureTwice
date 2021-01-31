@@ -29,20 +29,20 @@ const HomeIndex = () => {
           </p>
           <h3>Services:</h3>
           <ul>
-            <li>Hangning Sheleves or Pictures</li>
-            <li>Furnature Assembly</li>
+            <li>Hanging Shelves or Pictures</li>
+            <li>Furniture Assembly</li>
             <li>TV mounting</li>
             <li>Garden Build outs</li>
             <li>Woodworking</li>
             <li>Odd Jobs</li>
-            <li>Yard maitanence/clean up</li>
+            <li>Yard maintenance/clean up</li>
             <li>Gutter Cleaning</li>
             <li>paint touchup</li>
           </ul>
           <ul className="actions">
             <li>
               <a href="tel:816-589-1800" className="button">
-                Have somethine else in mind? Give me a call
+                Have something else in mind? Give me a call.
               </a>
             </li>
           </ul>
