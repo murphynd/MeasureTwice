@@ -85,3 +85,6 @@ initalized Jan 28th 2021
 ## google search for service
 
 ## Gatsby/ React / Firebase site
+
+Namecheap
+privateemail.com

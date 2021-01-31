@@ -1,5 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import { init } from 'emailjs-com'
+init('user_6qXhqucqgZQUcOLMyyfKt')
 
 import Gallery from '../components/Gallery'
 import Layout from '../components/layout'

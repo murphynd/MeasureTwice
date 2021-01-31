@@ -1,6 +1,5 @@
 import React from 'react'
 import emailjs from 'emailjs-com'
-
 import './ContactUs.css'
 
 export default function ContactUs() {
@@ -8,13 +7,23 @@ export default function ContactUs() {
     e.preventDefault()
 
     emailjs
-      .sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID')
+      .sendForm(
+        'service_jpw33e8',
+        'template_iytis1z',
+        e.target,
+        'user_6qXhqucqgZQUcOLMyyfKt'
+      )
       .then(
         (result) => {
-          console.log(result.text)
+          handleSendFormResult(
+            <p>
+              Your message has been sent! <br></br>
+              <br /> I'll Get back to you soon! )
+            </p>
+          )
         },
         (error) => {
-          console.log(error.text)
+          handleSendFormResult(<p>Whoops, this message didn't send :(</p>)
         }
       )
   }
