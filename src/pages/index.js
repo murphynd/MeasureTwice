@@ -37,7 +37,7 @@ const HomeIndex = () => {
             <li>Odd Jobs</li>
             <li>Yard maintenance/clean up</li>
             <li>Gutter Cleaning</li>
-            <li>paint touchup</li>
+            <li>Paint touchup</li>
           </ul>
           <ul className="actions">
             <li>
